@@ -1,7 +1,58 @@
-.main-box{
-    height: 150px;
-    width: 100%;
-    margin: 5px;
+.main-box
+{
+    height: 78px;
+    width: 99%;
+    margin: 10px;
     border-radius: 10px;
     background-color: #fc8c03;
+}
+
+#blue-box
+{
+    background-color: #0000ff;
+}
+
+#light-blue-box
+{
+    background-color: #2b2bff;
+}
+
+#lighter-blue-box
+{
+    background-color: #5555ff;
+}
+
+#lighterer-blue-box
+{
+    background-color: #8080ff;
+}
+
+#lightest-blue-box
+{
+    background-color: #aaaaff;
+}
+
+#lightest-orange-box
+{
+    background-color: #ffe9d4;
+}
+
+#lighterer-orange-box
+{
+    background-color: #ffd5ab;
+}
+
+#lighter-orange-box
+{
+    background-color: #ffaa54;
+}
+
+#light-orange-box
+{
+    background-color: #ff962b;
+}
+
+#orange-box
+{
+    background-color: #ff8000;
 }
